@@ -1,0 +1,16 @@
+PODS:
+  - DidaTestPod (0.1.0)
+
+DEPENDENCIES:
+  - DidaTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  DidaTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DidaTestPod: 327eba7df506e4afff2cf3092077417ba610adf8
+
+PODFILE CHECKSUM: e10c6756d706bdfc6123fb3de369ad8d0dd48f17
+
+COCOAPODS: 1.5.0

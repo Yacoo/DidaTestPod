@@ -1,0 +1,6 @@
+framework module DidaTestPod {
+  umbrella header "DidaTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

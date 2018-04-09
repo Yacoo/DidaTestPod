@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DidaTestPod'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DidaTestPod.'
+  s.summary          = 'short description of DidaTestPod.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

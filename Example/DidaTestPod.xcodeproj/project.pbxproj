@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		02E3DAB6D4F351044E3EFB75 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		02E3DAB6D4F351044E3EFB75 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		30CB24BA8CF692E2B222D696 /* Pods-DidaTestPod_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DidaTestPod_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-DidaTestPod_Example/Pods-DidaTestPod_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003C52D9D57EB69CFEC188D /* Pods-DidaTestPod_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DidaTestPod_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DidaTestPod_Example/Pods-DidaTestPod_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* DidaTestPod_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DidaTestPod_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -59,11 +59,11 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		62598E25E62E8508D6540237 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		62598E25E62E8508D6540237 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		992BBB48BCA3B9DE212967BF /* Pods-DidaTestPod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DidaTestPod_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DidaTestPod_Tests/Pods-DidaTestPod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		A4D3005684EEFD44640FA8F3 /* DidaTestPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = DidaTestPod.podspec; path = ../DidaTestPod.podspec; sourceTree = "<group>"; };
+		A4D3005684EEFD44640FA8F3 /* DidaTestPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DidaTestPod.podspec; path = ../DidaTestPod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B2FA40C87BE49A757DAA6DAF /* Pods-DidaTestPod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DidaTestPod_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-DidaTestPod_Tests/Pods-DidaTestPod_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		BB33FDC85E69401C7F4853C9 /* Pods_DidaTestPod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DidaTestPod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0E9EC1D08B3E44F1C5ACF23 /* Pods_DidaTestPod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DidaTestPod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
